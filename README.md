@@ -7,7 +7,6 @@ This register is aligned with industry-standard frameworks such as **NIST SP 800
 
 ### Key Features
 * **Automated Scoring:** Dynamic calculation of Inherent and Residual risk scores.
-* **Heat Map Integration:** A visual 5x5 matrix that updates based on your data.
 * **Treatment Tracking:** Monitor the progress of mitigations (Accept, Mitigate, Transfer, Avoid).
 * **Framework Mapping:** Cross-reference risks with NIST CSF or ISO 27001 controls.
 
@@ -47,7 +46,7 @@ $$Risk\ Score = Likelihood \times Impact$$
 ---
 
 ## 🛠️ Customization
-This template is fully unlocked. You can modify the:
+This template is fully unlocked. You can add the following features for better customization:
 * **Dropdown Lists:** Edit the 'Data Validation' tab to add your own categories.
 * **Heat Map Colors:** Use Conditional Formatting to match your corporate risk appetite.
 
